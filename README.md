@@ -2,6 +2,7 @@
 Repository containing ML script for classification of Raman and peripheral works
 
 # ---------- #
+
 Overview
 
 -> This repo contains .ipynb jupyter notebooks relevant to my final year project, specifically to the classification of Raman spectra of biological targets using machine learning techniques.
@@ -23,6 +24,14 @@ Specifics
 -> This project has 3 secondary outcomes: identification of outlier models by categorising model agreement, identification of spectral outliers by categorising the number of models misclassifying per-spectrum, and to identify conserved Raman spectral regions associated with classification.
 
 -> Some of the code is currently messy. Efforts will be taken to clean the code and convert to .py files.
+
+# ---------- #
+
+Hardware / Software
+
+-> Functional on a laptop running Windows 11 (March - April 2026 releases).
+
+-> Hardware: Ryzen AI 7 350 APU, 16 GB RAM @ 5600 MTs, SKHynix HFS512GEM4X182N 512 GB SSD (m.2 NVME).
 
 # ---------- #
 
